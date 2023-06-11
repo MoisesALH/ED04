@@ -1,3 +1,7 @@
+package es.iespuertodelacruz.mlh;
+
+import es.iespuertodelacruz.mlh.Entity.CCuenta;
+
 public class Main {
 
     public static void main(String[] args) {
